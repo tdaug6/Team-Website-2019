@@ -1,21 +1,35 @@
 body {
-  background-color: white;
+  background-color: lightgrey;
 }
 
-h1 {
+h2 {
+color:navy;
+padding: 5px 20px;
+text-decoration:overline;
+}
+
+h3{
+  color:maroon;
+  padding: 5px 25px;
 
 }
 
 p {
+padding:5px 30px;
+}
 
+ul{
+  padding:5px 40px;
 }
 
 a {
   color: white;
+  padding:5px 15px;
 }
 
 .title {
   padding: 30px 80px;
+  color:black;
 }
 
 .navigation{
